@@ -1,2 +1,2 @@
-# useful_scripts
+# Useful Python Scripts
 Some short scripts
